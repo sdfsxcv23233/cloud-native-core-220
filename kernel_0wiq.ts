@@ -1,0 +1,1 @@
+const service_0wiq = <T>(args: T): T => { return args; };
